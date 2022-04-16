@@ -1,4 +1,4 @@
-Materials come from Algorithms, Part I and II on Coursera. This course is provided by Princeton University and material is fetched from Algorithms Fourth Edition by Robert 
+Materials come from Algorithms, Part I and II on Coursera. This course is provided by Princeton University and content is fetched from Algorithms Fourth Edition by Robert 
 Sedgewick and Kevin Wayne.
 <br> <br>
 This repository includes solutions to ungraded and graded assignments by Bhavya Aggarwal. All solutions are graded 100 by auto-grader, but are not guaranteed to be perfect and
