@@ -1,7 +1,6 @@
 public class WeightedQuickUnionUF {
     private int id[]; //id[i] = parents of node i
-    private int sz[]; //sz[i] = size of node i (for weighted Union-Find)
-    private int count; //number of connected components
+    private int sz[]; //sz[i] = size of node i (used as count)
 
     public WeightedQuickUnionUF(int N) {
         count = N;
